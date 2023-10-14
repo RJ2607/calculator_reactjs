@@ -63,3 +63,7 @@ button {
   background-color: #4cae4c;
   color: black;
 }
+
+body{
+  background-image: linear-gradient(to right, rgb(244, 126, 228), #3f3ad8);
+}
